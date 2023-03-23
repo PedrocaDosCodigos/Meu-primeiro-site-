@@ -1,0 +1,11 @@
+.obrigado{ color: rgb(12, 99, 16); font-size: 120px;
+
+}
+body { background-image: url("./assets/morbius\ b.jpg");
+    display: flex;
+    width: 90vw;
+    height: 80vh;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;}
+    

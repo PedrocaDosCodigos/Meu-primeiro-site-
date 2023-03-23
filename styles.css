@@ -1,0 +1,35 @@
+h1 {border-style: solid; border-color:rgb(22, 32, 19);
+    color: red;
+}
+
+input {
+    margin-top: 10px;
+    width: 300;
+}
+
+body { background-image: url("./assets/morbius\ b.jpg");
+    display: flex;
+    width: 100vw;
+    height: 400vh;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+img { width: 400; height:400 ;
+    border-radius: 100%;
+    border-style: solid;
+}
+
+button {
+    cursor:pointer; margin-top: 30px;
+    border: ipx solid;
+    width: 200px;
+    height: 40px;
+    background-color: #9c959ecb;
+}
+button:hover{
+    color:rgb(0, 0, 0);
+    background-color: red;
+}
+

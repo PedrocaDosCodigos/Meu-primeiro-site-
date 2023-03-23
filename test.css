@@ -1,0 +1,35 @@
+.camisa {
+    width: 400;
+    height: 400;
+    border-radius: 0%;
+    border-style: solid;
+}
+.EDIÇÃO{color:rgb(13, 95, 57);}
+
+.veidahavan{ width: 400;
+height: 400;}
+.nft{color: blueviolet;
+
+}
+
+.blusamorbius {
+    width: 400;
+    height: 400;
+    border-radius: 0%;
+    border-style: solid
+}
+
+img {
+    margin-top: 100px;
+    margin-bottom: 10px;
+    width: 300;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+
+}
